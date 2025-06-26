@@ -39,7 +39,7 @@ A web-based Bus Ticket Booking System developed using **PHP**, **MySQL**, **HTML
 1. Make sure **XAMPP** or **LAMPP** is installed and Apache & MySQL are running.
 2. Place the project folder (`bus-booking/`) inside:
 3. Open browser and navigate to:
-http://localhost/bus-booking/
+http://localhost/phpmyadmin
 
 ---
 
